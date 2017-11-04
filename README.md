@@ -68,7 +68,6 @@ https://data.qld.gov.au/api/action/datastore_search?resource_id=6e4b863c-ceb4-41
 @(https://data.qld.gov.au/api/action/datastore_search?resource_id=6e4b863c-ceb4-4191-929e-adb74f5b64e3)<result/records>
 ```
 ### Output
-```
 <table>
 <thead>
 <tr>
@@ -128,4 +127,3 @@ https://data.qld.gov.au/api/action/datastore_search?resource_id=6e4b863c-ceb4-41
 </tr>
 </tbody>
 </table>
-```
