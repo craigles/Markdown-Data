@@ -71,14 +71,14 @@ https://data.qld.gov.au/api/action/datastore_search?resource_id=6e4b863c-ceb4-41
 <table>
 <thead>
 <tr>
-<td>Status</td>
-<td>Count</td>
-<td>LGA Code</td>
-<td>Age</td>
-<td>Sex</td>
-<td>LGA Name</td>
-<td>Year</td>
-<td>_id</td>
+<th>Status</th>
+<th>Count</th>
+<th>LGA Code</th>
+<th>Age</th>
+<th>Sex</th>
+<th>LGA Name</th>
+<th>Year</th>
+<th>_id</th>
 </tr>
 </thead>
 <tbody>
