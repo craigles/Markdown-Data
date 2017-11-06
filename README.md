@@ -1,5 +1,5 @@
 # Markdown-Data
-A way of incorporating data into markdown. Not sure if this is a great idea :\
+A way of incorporating external data into markdown. Not sure if this is a great idea :\
 
 ## Example API endpoint
 ```
